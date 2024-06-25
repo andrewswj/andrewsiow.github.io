@@ -1,0 +1,8 @@
+.archive__item-title {
+    font-size: 1rem; /* Adjust the font size as needed */
+  }
+  
+  .archive__item-title a {
+    color: inherit; /* Optional: to ensure the link color is consistent */
+    text-decoration: none; /* Optional: to remove underline from links */
+  }
